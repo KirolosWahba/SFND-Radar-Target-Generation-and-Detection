@@ -1,6 +1,6 @@
 # SFND Radar Target Generation and Detection
 #### Udacity Sensor Fusion Nanodegree 
-Configuring the radar FMCW waveform based on the system requirements and simulating the radar signal propagation and moving target scenario. Finally, post processing the radar signal using 1st FFT, 2nd FFT, and CA-CFAR to detect the target's range and velocity.
+Configuring the radar FMCW waveform based on the system requirements and simulating the radar signal propagation and moving target scenario. Finally, post processing the radar signal using 1st FFT, 2nd FFT, and CA-CFAR to estimate the target's range and velocity.
 ___
 ### Project Flow Chart
 <img src="./Assets/Project flow chart.png"/>
